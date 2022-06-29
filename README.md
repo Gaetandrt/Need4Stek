@@ -28,7 +28,7 @@ Une fois le binaire généré, il vous suffit de le lancer grace a la commande s
 ./pipes
 ```
 
-[![n4s](https://user-images.githubusercontent.com/91087072/176387865-b9b08e54-db3a-43c4-a864-e3d83eedf7d0.png)](https://user-images.githubusercontent.com/91087072/176387865-b9b08e54-db3a-43c4-a864-e3d83eedf7d0.png)
+[![n4s](https://user-images.githubusercontent.com/91087072/176390823-2c561ab3-4ce3-487b-98a7-dd87cd755f34.png)](https://user-images.githubusercontent.com/91087072/176390823-2c561ab3-4ce3-487b-98a7-dd87cd755f34.png)
 
 
 ## Fabriqué avec
